@@ -1,0 +1,37 @@
+
+@font-face
+{
+	font-family: "myfont";
+	src: url("fonts/myfont.ttf") format("truetype");
+}
+body
+{
+	background-color: #A0C9ED;
+}
+#a1
+{
+	border-radius: 50px;
+	border: 1px solid;
+}
+.pic
+{
+	border-radius: 100px;	
+}
+.names
+{
+	font-size: 28px;
+	font-family: myfont;
+	margin-bottom: 0px;
+}
+#t1
+{
+	color: rgb(0,101,208);
+}
+#t2
+{
+	color: #C425E5;
+}
+#t3
+{
+	color: black;
+}
